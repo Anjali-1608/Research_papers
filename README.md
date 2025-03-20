@@ -3,10 +3,7 @@ Project: Improving Face Recognition with Domain Adaptation
 
 A Project Report
 Submitted by-
-Anjali Sharma &
-
-Sonali Shinde
-
+Anjali Sharma
 
 Submitted to-
 Prof. Aparna Biswas
